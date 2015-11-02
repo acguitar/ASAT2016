@@ -75,6 +75,9 @@ namespace ASAT2016
         {
             int b;
             int a;
+            int c;
+            int d;
+            int f;
 
         }
 
