@@ -73,6 +73,7 @@ namespace ASAT2016
 
         private void tbApiUrl_TextChanged(object sender, EventArgs e)
         {
+            int b;
             int a;
 
         }
