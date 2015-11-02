@@ -92,6 +92,7 @@ namespace ASAT2016
             int aaew;
             int agfge;
             int dgfge;
+            int fdgfge;
         }
 
        
