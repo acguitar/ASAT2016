@@ -26,3 +26,6 @@ C:\data\ASAT2016\ASAT2016\obj\Debug\ASAT2016.MediaManagement.resources
 C:\data\ASAT2016\ASAT2016\obj\Debug\ASAT2016.MediaMangementLogin.resources
 C:\data\ASAT2016\ASAT2016\obj\Debug\ASAT2016.Properties.Resources.resources
 C:\data\ASAT2016\ASAT2016\obj\Debug\ASAT2016.csproj.GenerateResource.Cache
+C:\Users\ManYang\Documents\GitHub\ASAT2016\ASAT2016\bin\Debug\ASAT2016.exe.config
+C:\Users\ManYang\Documents\GitHub\ASAT2016\ASAT2016\obj\Debug\ASAT2016.exe
+C:\Users\ManYang\Documents\GitHub\ASAT2016\ASAT2016\obj\Debug\ASAT2016.pdb
