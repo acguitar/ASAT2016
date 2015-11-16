@@ -84,6 +84,7 @@ namespace ASAT2016
             int aderedfafasdf;
             int aderedfafasd;
             int adfaewwrawefadsfasdfasdfasdfasdf;
+            int re;
         }
 
        
