@@ -59,7 +59,7 @@ namespace ASAT2016
                     f.getLoginInfo(userInfo);
                     f.Show();
                     this.Hide();
-
+                    //f.Show();
 
 
                 }
@@ -77,6 +77,8 @@ namespace ASAT2016
             int a;
             int c;
             int d;
+            int terw;
+            int dferdaf;
             int f;
             int g; 
         }
