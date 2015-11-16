@@ -79,6 +79,19 @@ namespace ASAT2016
             int d;
             int f;
             int g; 
+            int fh; 
+            int fafd; 
+            int adfa; 
+            int adfafa; 
+            int afadfafa; 
+            int afadafadfadsf;
+            int sa;
+            int ew;
+            int gfge;
+            int asa;
+            int aaew;
+            int agfge;
+            int dgfge;
         }
 
        
